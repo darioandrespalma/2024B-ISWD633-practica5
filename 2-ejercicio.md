@@ -13,6 +13,7 @@ Configurar SonarQube utilizando Docker Compose, para esto necesitas dos servicio
 
 
 
+
 ![Ejercicio docker compose](imagenes/local1.png)
 
 
