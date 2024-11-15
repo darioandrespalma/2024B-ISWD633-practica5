@@ -47,7 +47,7 @@ docker compose ps
 ```
 
 
-![Ejercicio docker compose](dockerps.png)
+![Ejercicio docker compose](imagenes/dockerps.png)
 
 ### Detener y eliminar los contenedores definidos en el archivo
 ```
